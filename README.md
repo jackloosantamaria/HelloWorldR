@@ -2,7 +2,7 @@
 
 As an aspiring software engineer focused on data analysis and programming, this project serves as my first step in practicing software development workflows and version control.
 
-This software is a simple “Hello World” program designed to confirm that my development environment is properly set up and that I can successfully create, run, and share code using GitJHub. The program prints the classic “Hello World” message on the screen.
+This software is a simple “Hello World” program designed to confirm that my development environment is properly set up and that I can successfully create, run, and share code using GitHub. The program prints the classic “Hello World” message on the screen.
 
 The purpose of creating this software is to gain familiarity with the development process, including coding, documentation, and video demonstrations. This foundational experience will support my work in more advanced modules, such as data analysis with R and SQL database queries.
 
